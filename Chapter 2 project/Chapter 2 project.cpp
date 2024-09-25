@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    const double tankSize = 20.0; // gallons
+    const double tankSize = 20.0; 
     const double townMpg = 23.5;
     const double highwayMpg = 28.9;
 
