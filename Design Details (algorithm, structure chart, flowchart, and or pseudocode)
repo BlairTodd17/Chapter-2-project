@@ -1,0 +1,69 @@
+Project 1
+
+Algorithm:
+
+Define the ocean rising rate.
+Create an array for the years (5, 7, 10).
+Loop through each year, calculate the increase, and display the result.
+
+Pseudocode:
+
+SET risingRate = 1.5
+SET years = [5, 7, 10]
+FOR each year in years DO
+    increase = risingRate * year
+    PRINT increase
+END FOR
+
+Reflection:
+
+Challenges: Understanding how to loop through arrays and perform calculations
+Problems Encountered: Ensuring correct data types for the calculations 
+Learning: How to code:)
+_____________________________________________________________________________
+Project 2
+
+Algorithm:
+
+Define the tank size and MPG for town and highway.
+Calculate distances for both scenarios.
+Display the results.
+
+Pseudocode:
+
+SET tankSize = 20
+SET townMpg = 23.5
+SET highwayMpg = 28.9
+townDistance = tankSize * townMpg
+highwayDistance = tankSize * highwayMpg
+PRINT distances
+
+Reflection:
+
+Challenges: Applying the formula correctly to calculate distances
+Problems Encountered: Managing float values for precision in calculations
+Learning: How to code:)
+_____________________________________________________________________________
+Project 3
+
+Algorithm:
+
+Define total customers and purchase percentages.
+Calculate customers purchasing energy drinks and those preferring citrus.
+Display results.
+
+Pseudocode:
+
+SET totalCustomers = 16500
+SET percentPurchase = 0.15
+SET percentCitrus = 0.58
+customersPurchasing = totalCustomers * percentPurchase
+customersCitrus = customersPurchasing * percentCitrus
+PRINT results
+
+Reflection:
+
+Challenges: Handling percentages and translating them into calculations.
+Problems Encountered: Ensuring accuracy in arithmetic operations.
+Learning: How to code:)
+_____________________________________________________________________________
